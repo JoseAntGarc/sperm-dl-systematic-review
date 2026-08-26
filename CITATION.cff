@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use these materials, please cite them as below."
+type: dataset
+title: "Reproducibility package for: Deep Learning for Automated Human Sperm Analysis. Datasets, Synthetic Data, Architectures and Evaluation: A Systematic Review."
+version: 1.0.0
+date-released: 2026-08-26
+license: CC-BY-4.0
+repository-code: "https://github.com/JoseAntGarc/sperm-dl-systematic-review" 
+authors:
+  - family-names: García Marín
+    given-names: Jose Antonio
+    affiliation: University of Murcia
+    orcid: "https://orcid.org/0009-0000-9039-7125"
+  - family-names: Cano Espinosa
+    given-names: Carlos
+    affiliation: University of Alicante
+    orcid: "https://orcid.org/0000-0002-1392-9834"
+  - family-names: Bolarín Guillén
+    given-names: José Miguel
+    affiliation: University of Murcia
+    orcid: "https://orcid.org/0000-0003-2400-9213"
+  - family-names: Palma Méndez
+    given-names: José
+    affiliation: University of Murcia
+    orcid: "https://orcid.org/0000-0003-2502-4378"
