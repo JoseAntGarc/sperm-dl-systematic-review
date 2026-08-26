@@ -1,0 +1,191 @@
+TY  - JOUR
+AN  - rayyan-603928385
+TI  - Automatic detection and segmentation of sperm head, acrosome and nucleus in microscopic images of human semen smears
+Y1  - 2016
+T2  - Computer methods and programs in biomedicine
+VL  - 132
+IS  - 132
+SP  - 11-20
+AU  - Shaker, Fariba; Monadjemi, S. Amirhassan; Naghsh-Nilchi, Ahmad Reza
+PB  - Elsevier BV
+AB  - NA
+N1  - RAYYAN-INCLUSION: {"Jose Antonio"=>"Included"}
+DO  - 10.1016/j.cmpb.2016.04.026
+ER  -
+
+TY  - JOUR
+AN  - rayyan-603928528
+TI  - Automatic classification of human sperm head morphology
+Y1  - 2017
+T2  - Computers in biology and medicine
+VL  - 84
+SP  - 205-216
+AU  - Chang, Violeta; Heutte, Laurent; Petitjean, Caroline; Hrtel, Steffen; Hitschfeld, Nancy
+PB  - Elsevier BV
+AB  - NA
+N1  - RAYYAN-INCLUSION: {"Jose Antonio"=>"Included"}
+DO  - 10.1016/j.compbiomed.2017.03.029
+ER  -
+
+TY  - CHAP
+AN  - rayyan-603928532
+TI  - Automated Morphology Detection from Human Sperm Images
+Y1  - 2018
+T2  - Intracytoplasmic Sperm Injection
+SP  - 99-122
+AU  - Mirroshandel, Seyed Abolghasem; Ghasemian, Fatemeh
+PB  - Springer International Publishing
+AB  - Background: Sperm morphology is an important factor impacting male fertility potential. Thus, the assessment of this parameter is a key step during the infertility diagnosis and in real-time selection of sperm for intracytoplasmic sperm injection (ICSI). In recent years, one interesting subject in sperm morphology analysis (SMA) involves use of an automated algorithm. These algorithms can accelerate detection of typical and atypical forms. This chapter presents one of the most successful SMA algorithms for use in real-time analysis of human sperm selection. Methods: A human sperm morphology analysis dataset (HSMA-DS) was created using sperm images (n = 1457) from 235 patients. Different human sperm components were detected and analyzed using this SMA method. Initially, noise removal was performed to enhance image contrast followed by recognition and analysis of size and shape of different sperm regions (i.e., head, large vacuole, midpiece, and tail). Classification of each sperm was done by this algorithm as normal or abnormal forms. Therefore, the SMA algorithm recognizes the different atypical forms in the head, midpiece, and tail of a sperm. This analysis by the SMA algorithm is performed on non-stained images with low resolution.
+N1  - RAYYAN-INCLUSION: {"Jose Antonio"=>"Included"}
+DO  - 10.1007/978-3-319-70497-5_8
+ER  -
+
+TY  - JOUR
+AN  - rayyan-603928566
+TI  - The Implementation of DCGAN in the Data Augmentation for the Sperm Morphology Datasets
+Y1  - 2021
+T2  - European Journal of Science and Technology
+IS  - 26
+SP  - 307-314
+AU  - Balayev, Kamran; Guluzade, Nihad; Aygun, Sercan; O.Ilhan, Hamza
+PB  - ASOS Yayinevi
+AB  - A large amount of data is the key requirement in order to train a neural network efficiently. Using a small size training set in network training causes low accuracy for model performance over the testing set and also hard to implement the model in practice. Similar to many other problems, sperm morphology datasets are also limited for training the neural network-based deep networks in order to provide an automatic evaluation of sperm morphometry. Data augmentation mitigates this problem by utilizing actual data more effectively. The standard data augmentation techniques focus on only spatial changes over the images and can only produce a restricted number of useful informative and disjunctive data. Therefore, in order to create more distinctive and diverse data than the regular spatial domain-based augmentation techniques, a deep learning-based data augmentation technique which is known as the generative model, is trained in this study for the sperm morphology datasets. The deep convolutional generative adversarial network (DCGAN) was optimized and utilized in this study for three well-known sperm morphometry datasets as SMIDS, HuSHeM, and SCIAN-Morpho. Each dataset was individually augmented to a 1000 sample size by the proposed approach. In order to optimize the network with different parameters and observe the generated data, a graphical user interface has been designed. For the similarity evaluation of the generated images to original images, the Fréchet Inception Distance (FID) score was utilized. The FID results indicate that the most similar generated images have been obtained for SMIDS with an average of 29.06 FID score. The worst performance (Average FID = 53.46) was obtained for the SCIAN-Morpho dataset, which has low resolution and data imbalance problems. Lastly, DCGAN based proposed approach resulted in an average of 44.25 FID score for the HuSHeM dataset.
+N1  - RAYYAN-INCLUSION: {"Jose Antonio"=>"Included"}
+DO  - 10.31590/ejosat.952561
+ER  -
+
+TY  - JOUR
+AN  - rayyan-603928699
+TI  - Ensembled Deep Learning for the Classification of Human Sperm Head Morphology
+Y1  - 2022
+T2  - Advanced Intelligent Systems
+VL  - 4
+IS  - 10
+SP  - NA-NA
+AU  - Spencer, Lindsay; Fernando, Jared; Akbaridoust, Farzan; Ackermann, Klaus; Nosrati, Reza
+PB  - Wiley
+AB  - <jats:sec><jats:label/><jats:p>Infertility is a growing global health concern, with male factor infertility contributing to half of all cases. Semen analysis is crucial to infertility diagnostics. However, sperm morphology assessment, as a routine part of analysis, is still performed manually and is thus highly subjective. Here, a stacked ensemble of convolutional neural networks (CNNs) is presented for automated classification of human sperm head morphology. By combining traditional CNN models with modern residual and densely connected architectures using a multi‐class meta‐classifier, classification rate improvements of 2.7% (to 98.2%) and 2.3% (to 63.3%) on the HuSHeM and SCIAN‐MorphoSpermGS (SCIAN) datasets, respectively, are achieved. This considerable improvement in prediction performance is achieved as the meta‐classifier improves upon the individual classification rates of the base models by ≈8.5%. The ensembled deep learning model is a powerful step toward an automated sperm morphology analysis, providing new opportunities to standardize clinical practice and reduce treatment costs to improve patient treatment.</jats:p></jats:sec>
+N1  - RAYYAN-INCLUSION: {"Jose Antonio"=>"Included"}
+DO  - 10.1002/aisy.202200111
+ER  -
+
+TY  - JOUR
+AN  - rayyan-603928778
+TI  - Human sperm morphology analysis using smartphone microscopy and deep learning
+Y1  - 2019
+T2  - Fertility and Sterility
+VL  - 112
+IS  - 3
+SP  - e41-NA
+AU  - Thirumalaraju, Prudhvi; Kanakasabapathy, Manoj Kumar; Bormann, Charles L.; Kandula, Hemanth; Pava...
+PB  - Elsevier BV
+AB  - NA
+N1  - RAYYAN-INCLUSION: {"Jose Antonio"=>"Included"}
+DO  - 10.1016/j.fertnstert.2019.07.237
+ER  -
+
+TY  - DATA
+AN  - rayyan-603929001
+TI  - EVISAN – a dataset for multi-sperm detection and tracking algorithm development
+Y1  - 2020
+T2  - Zenodo (CERN European Organization for Nuclear Research)
+SP  - NA-NA
+AU  - Yan, Yimo
+PB  - NA
+AB  - <strong>P</strong><strong>urpose</strong><strong>:</strong> Automatic tracking and detection of motile cells in time-lapse mode during microscopy is an important requirement in many biological applications. Although significant developments have been made in cell tracking algorithms, current datasets are limited in size and diversity, especially for data-dependent generalized deep learning models. In this paper, we introduce a new and larger standard sperm tracking dataset with a useful framework for assessing motile cell tracking algorithms. <strong>Acquisition and validation methods: </strong>Semen samples were used to obtain image datasets. The sequences of motile sperm data were acquired using a microscope. We recorded motile sperm from different donors under different magnification, to provide a suitable sperm pool and achieve a degree of image heterogeneity. Sperm images were manually annotated and checked by several biologists using semi-automatic software to generate the dataset. <strong>Data format and usage notes: </strong>We present a new dataset, EVISAN – Expert Visual Sperm Annotation, comprising partially annotated sperm images from different donors at a varying magnification that is readily usable as training data for computer vision applications. With 6,000 images, our collection is an unparalleled heterogeneous dataset for deep learning sperm detection application development. All images are stored in XML and JPEG formats. We also provide a standard evaluation framework for the proposed dataset. <strong>Potential applications: </strong>Our standard dataset is highly suitable for quantitatively evaluating state-of-the-art, multi-target tracking and detection algorithms. We also foresee the clinical application of these algorithms in assisted reproduction in humans, such as real-time computer-assisted sperm analysis.
+N1  - RAYYAN-INCLUSION: {"Jose Antonio"=>"Included"}
+DO  - 10.5281/zenodo.4303767
+ER  -
+
+TY  - JOUR
+AN  - rayyan-603929383
+TI  - A Multi Object Tracking Framework Based on YOLOv8s and Bytetrack Algorithm
+Y1  - 2024
+T2  - IEEE Access
+VL  - 12
+SP  - 120711-120719
+AU  - Wang, Yingyun; Mariano, Vladimir Y.
+PB  - Institute of Electrical and Electronics Engineers (IEEE)
+AB  - In recent years, the YOLOv8 series algorithms have become a research hotspot in many fields, and they can perform excellently in different computer vision tasks. However, YOLOv8 still has room for improvement in multi-target tracking. We integrated it with the Symmetric Positive Definite Convolution (SPD-Conv) module and proposed the YOLOv8s SPD detector, which enhances its detection ability for small targets. The values of mAP@0.5 and mAP@.5:95 have both been increased compared to YOLOv8s. Subsequently, the detector was combined with the ByteTrack tracking algorithm, and the IoU and loss function were optimized to achieve superior performance. We refer to this tracking framework as YBTrack. YBTrack was tested on the Multiple Object Tracking (MOT) Challenge MOT17 and MOT 20 datasets, and achieved MOTA metrics of 74.0% and 66.8%, respectively. Compared with existing tracking frameworks with built-in detectors, our tracking framework has better performance.
+N1  - RAYYAN-INCLUSION: {"Jose Antonio"=>"Included"}
+DO  - 10.1109/access.2024.3450370
+ER  -
+
+TY  - NA
+AN  - rayyan-603929457
+TI  - Human abnormal behavior detection method based on T-TINY-YOLO
+Y1  - 2020
+T2  - Proceedings of the 5th International Conference on Multimedia and Image Processing
+SP  - 1-5
+AU  - Ji, Hongxia; Zeng, Xianlin; Li, Hongguang; Ding, Wenrui; Nie, Xuehua; Zhang, Yunqing; Xiao, Zhifeng
+PB  - ACM
+AB  - Aiming at the problem of human abnormal behavior detection in video surveillance, an abnormal target detection method based on T-TINY-YOLO network model is proposed. First, the type of abnormal behavior is defined according to the requirements of the monitoring scenario. Then the calibrated abnormal behavior data is trained through the YOLO network model to achieve end-to-end abnormal behavior classification, thereby achieving abnormal target detection for specific application scenarios. For the characteristics of a large number of zero-valued weight parameters in YOLO's network weights, a convolutional neural network tailoring scheme is proposed to improve the network model, accelerate the algorithm, and improve the real-time performance of the system. Finally, the method is implemented on the embedded platform NVIDIA JetsonTX2. The experimental results are good, the detection speed reaches 12 frames/s, and the recall rate is 80.87%.
+N1  - RAYYAN-INCLUSION: {"Jose Antonio"=>"Included"}
+DO  - 10.1145/3381271.3381273
+ER  -
+
+TY  - CHAP
+AN  - rayyan-603929541
+TI  - CS3: Cascade SAM for Sperm Segmentation
+Y1  - 2024
+T2  - Lecture Notes in Computer Science
+SP  - 596-605
+AU  - Shi, Yi; Tian, Xu-Peng; Wang, Yun-Kai; Zhang, Tie-Yi; Yao, Bing; Wang, Hui; Shao, Yong; Wang, Cen...
+PB  - Springer Nature Switzerland
+AB  - NA
+N1  - RAYYAN-INCLUSION: {"Jose Antonio"=>"Included"}
+DO  - 10.1007/978-3-031-72384-1_56
+ER  -
+
+TY  - NA
+AN  - rayyan-603929565
+TI  - Sperm Detection and Tracking in Phase-Contrast Microscopy Image Sequences using Deep Learning and Modified CSR-DCF.
+Y1  - 2020
+T2  - arXiv: Computer Vision and Pattern Recognition
+SP  - NA-NA
+AU  - Mohammadi, Mohammad Reza; Rahimzadeh, Mohammad; Attar, Abolfazl
+AB  - Nowadays, computer-aided sperm analysis (CASA) systems have made a big leap in extracting the characteristics of spermatozoa for studies or measuring human fertility. The first step in sperm characteristics analysis is sperm detection in the frames of the video sample. In this article, we used RetinaNet, a deep fully convolutional neural network as the object detector. Sperms are small objects with few attributes, that makes the detection more difficult in high-density samples and especially when there are other particles in semen, which could be like sperm heads. One of the main attributes of sperms is their movement, but this attribute cannot be extracted when only one frame would be fed to the network. To improve the performance of the sperm detection network, we concatenated some consecutive frames to use as the input of the network. With this method, the motility attribute has also been extracted, and then with the help of the deep convolutional network, we have achieved high accuracy in sperm detection. The second step is tracking the sperms, for extracting the motility parameters that are essential for indicating fertility and other studies on sperms. In the tracking phase, we modify the CSR-DCF algorithm. This method also has shown excellent results in sperm tracking even in high-density sperm samples, occlusions, sperm colliding, and when sperms exit from a frame and re-enter in the next frames. The average precision of the detection phase is 99.1%, and the F1 score of the tracking method evaluation is 96.61%. These results can be a great help in studies investigating sperm behavior and analyzing fertility possibility.
+N1  - RAYYAN-INCLUSION: {"Jose Antonio"=>"Included"}
+DO  - NA
+ER  -
+
+TY  - JOUR
+AN  - rayyan-603929587
+TI  - 3D+t human sperm flagellum centerline dataset.
+Y1  - 2026
+T2  - Scientific data
+VL  - 13
+IS  - 1
+SP  - NA-NA
+AU  - Hernández-Herrera, Paul; Hernández, Haydee O; Bribiesca-Sanchez, Andres; Montoya, Fernando; Díaz-...
+AB  - The study of human sperm motility has been a topic of interest for decades due to its crucial role in fertility and reproductive health. While most analyses rely on 2D+t imaging of head trajectories, sperm naturally swim in three dimensions (3D), driven by complex flagellar motion. However, the lack of comprehensive 3D+t datasets has limited progress in this field. To address this, we present 3D-SpermFlagella, the first large-scale 3D+t dataset of human sperm flagellum centerline annotations. This dataset contains 135 tracked and annotated sperm, derived from our previously published multifocal video microscopy dataset 3D-SpermVid. Each flagellar centerline was annotated over time in three dimensions, incubated under non-capacitating (NCC) and capacitating (CC) conditions. The (x,y,z) coordinates are provided in both micrometers and voxels, making 3D-SpermFlagella a valuable resource for studying sperm motility in its full spatial complexity and for the development and benchmarking of AI-based models for tracking and segmentation. In this paper, we describe the segmentation and tracking methods, as well as the conditions and structure of the dataset.
+N1  - RAYYAN-INCLUSION: {"Jose Antonio"=>"Included"}
+DO  - 10.1038/s41597-026-06876-2
+ER  -
+
+TY  - JOUR
+AN  - rayyan-603929593
+TI  - SPERM HEAD SEGMENTATION IN MICROSCOPIC IMAGES USING A U-NET MODEL
+Y1  - 2026
+T2  - Актуальні проблеми сучасної медицини: Вісник Української медичної стоматологічної академії
+VL  - 26
+IS  - 2
+SP  - 125-130
+AU  - Hula, I. D.
+AB  - <jats:p>Male factor infertility remains one of the leading causes of impaired reproductive function, and morphological assessment of spermatozoa, particularly the sperm head, is an important component of standard semen analysis. At the same time, manual morphological assessment remains labor-intensive, subjective, and highly dependent on the examiner’s experience, which creates a need for automated approaches to the analysis of microscopic images. Objective. To develop and evaluate the performance of a deep learning model for automated sperm head segmentation in microscopic images.     Materials and methods. The study included microscopic images of individual spermatozoa obtained from semen smears of 70 patients aged 25–45 years after standard cytological staining. Manual annotation of sperm head contours was performed in QuPath. To create the training dataset, both morphologically normal and pathologically altered spermatozoa were manually annotated, including normal, tapered, pyriform, amorphous, and small or microcephalic sperm heads. Segmentation was performed using a U-Net model configured according to a previously validated setup, with encoder depth 5, ReLU activation function, and RMSprop optimizer. Segmentation quality was assessed using the Dice coefficient and Intersection over Union metrics, as well as by visual expert review.     Results. The developed model demonstrated an overall high level of segmentation across all studied morphological classes. The highest Dice coefficient was recorded for pyriform forms, 0.955 ± 0.015, while high values were also obtained for normal forms, 0.942 ± 0.012. For tapered and amorphous forms, the Dice coefficient was 0.912 ± 0.011 and 0.920 ± 0.013, respectively. The highest IoU value was observed for tapered forms, 0.890 ± 0.010. The lowest values were found for small or microcephalic sperm heads, with a Dice coefficient of 0.890 ± 0.010 and an IoU of 0.840 ± 0.013; however, segmentation quality remained high in this group as well. Low standard deviation values across all classes indicated the relative stability of the model performance.     Conclusion. Thus, the U-Net based model provides high-quality automated sperm head segmentation in microscopic images and may be considered a reliable basis for further automation of sperm morphological assessment, particularly for morphometric analysis and subsequent recognition of pathological forms.</jats:p>
+N1  - RAYYAN-INCLUSION: {"Jose Antonio"=>"Included"}
+DO  - 10.31718/2077-1096.26.2.125
+ER  -
+
+TY  - NA
+AN  - rayyan-603929828
+TI  - HSTLI, A Dataset of Human Semen Time-Lapse Images for Detection, Tracking, and Motility Parameter Analysis
+Y1  - 2025
+T2  - NA
+SP  - NA-NA
+AU  - Sivri, Atilla; Choi, JiWon; Bopp, Justin; Anouna, Albert; VerMilyea, Matthew; Alkhoury, Gustave; ...
+AB  - <jats:title>Abstract</jats:title>                     <jats:p>We present HSTLI, a dataset of Human Semen Time-Lapse Images acquired using two microscopy systems. These were (i) a commercial Computer-Assisted Semen Analysis (CASA) system and, (ii) an optical microscope. The dataset contains samples from 51 healthy male participants and includes 3,266 video clips (approximately 27 hours of imagery). A subset of the clips from both systems was manually annotated with bounding boxes around each visible sperm head, thereby establishing ground truth for detection, tracking, and motility analysis. Specifically, 14 CASA clips and 20 optical-microscope clips (each consisting of 900 frames) were labeled, yielding 29,950 annotated frames and roughly 1.4 million sperm annotations. The dataset also includes thousands of unlabeled clips captured under varying preparation conditions (washed vs. unwashed), dilution levels, magnifications, and regions of interest. When available, motility parameter reports are provided from either clinical technicians or CASA outputs. We demonstrate the use of this dataset in two example applications, (i) automated sperm detection and tracking using YOLOv5 and SORT, and (ii) visualizations of motility parameters. HSTLI offers a comprehensive benchmark for developing and evaluating algorithms for sperm detection, tracking, classification, and motility assessment.</jats:p>
+N1  - RAYYAN-INCLUSION: {"Jose Antonio"=>"Included"}
+DO  - 10.64898/2025.12.15.694470
+ER  -
+
