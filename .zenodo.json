@@ -1,0 +1,16 @@
+{
+  "upload_type": "dataset",
+  "title": "Reproducibility package for: Deep Learning for Automated Human Sperm Analysis. Datasets, Synthetic Data, Architectures and Evaluation: A Systematic Review.",
+  "description": "Search, screening, selection materials for the PRISMA 2020 systematic review 'Deep Learning for Automated Human Sperm Analysis. Datasets, Synthetic Data, Architectures and Evaluation: A Systematic Review': database search exports (Scopus, PubMed; 27 May 2026), deduplicated screening set, title/abstract and full-text decisions of both reviewers with third-reviewer adjudication, citation-tracking inputs and outputs (citationchaser over Lens.org; 1 July 2026), extraction tables and the inter-rater agreement script. See README.md for the folder structure.",
+  "creators": [
+    {"name": "García Marín, Jose Antonio", "affiliation": "University of Murcia", "orcid": "0009-0000-9039-7125"},
+    {"name": "Cano Espinosa, Carlos", "affiliation": "University of Alicante", "orcid": "0000-0002-1392-9834"},
+    {"name": "Bolarín Guillén, José Miguel", "affiliation": "University of Murcia", "orcid": "0000-0003-2400-9213"},
+    {"name": "Palma Méndez, José", "affiliation": "University of Murcia", "orcid": "0000-0003-2502-4378"}
+  ],
+  "keywords": ["systematic review", "PRISMA 2020", "deep learning", "sperm analysis", "computer-assisted sperm analysis", "computer vision", "reproducibility"],
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "language": "eng",
+  "version": "1.0.0"
+}
