@@ -5,7 +5,7 @@
   "creators": [
     {"name": "García Marín, Jose Antonio", "affiliation": "University of Murcia", "orcid": "0009-0000-9039-7125"},
     {"name": "Bolarín Guillén, José Miguel", "affiliation": "University of Murcia", "orcid": "0000-0003-2400-9213"},
-    {"name": "Cano Espinosa, Carlos", "affiliation": "University of Alicante", "orcid": "0000-0002-1392-9834"},
+    {"name": "Cano-Espinosa, Carlos", "affiliation": "University of Alicante", "orcid": "0000-0002-1392-9834"},
     {"name": "Palma Méndez, José", "affiliation": "University of Murcia", "orcid": "0000-0003-2502-4378"}
   ],
   "keywords": ["systematic review", "PRISMA 2020", "deep learning", "sperm analysis", "computer-assisted sperm analysis", "computer vision", "reproducibility"],
